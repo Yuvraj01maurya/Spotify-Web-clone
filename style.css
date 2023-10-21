@@ -167,8 +167,7 @@ font-weight: 400;
 }
 
 .main-profile:hover{
-    transform: scale(1,2);
-    background-color: aquamarine;
+    background-color: rgb(67, 173, 138);
     color: blueviolet;
 
     
