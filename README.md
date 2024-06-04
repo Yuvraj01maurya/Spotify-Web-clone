@@ -1,7 +1,3 @@
-Here’s an attractive README for your Spotify Web Clone repository:
-
----
-
 # Spotify Web Clone 🎵
 
 ![Spotify Logo](https://cdn.iconscout.com/icon/free/png-256/spotify-11-432546.png)
@@ -21,8 +17,10 @@ A sleek and functional clone of Spotify's web player. This project replicates th
 - **JavaScript**: Client-side scripting to handle user interactions and dynamic content.
 
 ## Screenshots
-![Home Page](media/home.png)
-![Playlist Page](media/playlist.png)
+Home Page![Screenshot 2024-06-04 145549](https://github.com/Yuvraj01maurya/Spotify-Web-clone/assets/144897557/1442f71b-9e36-48fe-a6b3-7d1b9b75d456)
+
+Playlist Page ![Screenshot 2024-06-04 145615](https://github.com/Yuvraj01maurya/Spotify-Web-clone/assets/144897557/aa797e5e-c854-4b48-b152-86f4ddb4d77e)
+
 
 ## Getting Started
 Follow these instructions to set up the project locally.
